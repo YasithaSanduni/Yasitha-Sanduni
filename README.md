@@ -173,17 +173,6 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 ---
 
-## 🎓 Education
-
-### SLIIT
-
-**BSc (Hons) in Information Technology**
-
-📍 Sri Lanka Institute of Information Technology
-🎓 Third-Year Undergraduate
-
----
-
 ## 💼 Experience
 
 ### Sampath Bank – Head Office
@@ -197,7 +186,7 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Interests
 
 <p>
 <img src="https://img.shields.io/badge/Business%20Analysis-4B0082?style=for-the-badge"/>
@@ -217,13 +206,13 @@ I'm currently looking for opportunities to learn, grow, and gain practical indus
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yasithasanduni2002@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
