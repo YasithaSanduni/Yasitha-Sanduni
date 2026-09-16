@@ -8,10 +8,12 @@
 
 <br>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yasitha-sanduni-5a72b4410/)"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/yasitha-sanduni-5a72b4410">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;
 <a href="https://github.com/YasithaSanduni">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -32,6 +34,18 @@ I enjoy understanding business requirements, analysing processes, documenting so
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
 * 🎯 **Goal: Grow into a Project Lead role in the IT industry**
 
+---
+
+## 💼 Experience
+
+### Sampath Bank – Head Office
+
+**HR Intern | Feb 2023 – Oct 2023**
+
+* 📄 Assisted with departmental structure documentation
+* 📊 Collected staff information from departments and branches
+* 🗂️ Assisted with resignation letter handling and documentation
+* 🤝 Supported administrative and departmental activities
 
 ---
 
@@ -67,7 +81,6 @@ I enjoy understanding business requirements, analysing processes, documenting so
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
 
 ### 🧪 Testing & API Tools
 
@@ -171,19 +184,6 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 ---
 
-## 💼 Experience
-
-### Sampath Bank – Head Office
-
-**HR Intern | Feb 2023 – Oct 2023**
-
-* 📄 Assisted with departmental structure documentation
-* 📊 Collected staff information from departments and branches
-* 🗂️ Assisted with resignation letter handling and documentation
-* 🤝 Supported administrative and departmental activities
-
----
-
 ## 🎯 Interests
 
 <p>
@@ -204,10 +204,14 @@ I'm currently looking for opportunities to learn, grow, and gain practical indus
 
 <br>
 
-<a href="https://www.linkedin.com/in/yasitha-sanduni-5a72b4410"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/yasitha-sanduni-5a72b4410">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
 
 <a href="mailto:yasithasanduni2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
