@@ -1,22 +1,7 @@
 # Yasitha_Sanduni
-                                                  # Yasitha Thilakarathna
-
-                                        **Information Technology Undergraduate @ SLIIT**
-
-🎯 Aspiring Business Analyst & Project Management Professional
-
-## 👩‍💻 About Me
-
-I am a motivated and passionate Information Technology undergraduate at SLIIT.
-
-🎓 **BSc (Hons) in Information Technology – SLIIT**
-
-💼 **Interested in Business Analysis & Project Management**
-
-📊 **Exploring Business Intelligence & Data Analysis**
-
-🧪 **Interested in Quality Assurance & Software Engineering**
-
-🌱 **Continuously learning and building practical IT solutions**
-
-🎯 **Goal: Build a career at the intersection of business and technology**
+<div align="center">
+Yasitha Thilakarathna
+Information Technology Undergraduate @ SLIIT
+Business Analysis • Project Management • QA • Business Intelligence
+<p> <a href="https://www.linkedin.com/">LinkedIn</a> • <a href="https://github.com/">GitHub</a> </p>
+</div>
