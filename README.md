@@ -29,10 +29,10 @@ I enjoy understanding business requirements, analysing processes, documenting so
 ### 🌱 Currently
 
 * 💼 Interested in **Business Analysis & Project Management**
-* 🧪 Interested in **Quality Assurance & Business Intelligence Engineering**
-* 🔄 Currently learning **Agile Methodologies & SDLC**
+* 📊 Using **Power BI for Data Analysis & Reporting**
+* 🔄 Developing knowledge in **Agile Methodologies & SDLC**
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
-* 🎯 Goal **IT Internship Opportunity**
+* 🎯 **Goal: Grow into a Project Lead role in the IT industry**
 
 ---
 
