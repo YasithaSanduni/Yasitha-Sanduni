@@ -10,7 +10,7 @@ Interested in **Business Analysis • Project Management • QA • Business Int
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
