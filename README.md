@@ -30,9 +30,11 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 * 💼 Interested in **Business Analysis & Project Management**
 * 📊 Using **Power BI for Data Analysis & Reporting**
+* 📋 Familiar with **ClickUp & Jira** for project management
 * 🔄 Developing knowledge in **Agile Methodologies & SDLC**
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
 * 🎯 **Goal: Grow into a Project Lead role in the IT industry**
+
 
 ---
 
