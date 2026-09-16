@@ -1,7 +1,7 @@
-# Yasitha-Sanduni
-# Yasitha Thilakarathna
+# Yasitha_Sanduni
+                                                  # Yasitha Thilakarathna
 
-**Information Technology Undergraduate @ SLIIT**
+                                        **Information Technology Undergraduate @ SLIIT**
 
 🎯 Aspiring Business Analyst & Project Management Professional
 
