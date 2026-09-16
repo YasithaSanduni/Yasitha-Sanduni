@@ -1,6 +1,6 @@
 <div align="center">
 
-#Yasitha Thilakarathna
+# Yasitha Thilakarathna
 
 ### Information Technology Undergraduate @ SLIIT
 
