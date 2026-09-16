@@ -30,7 +30,6 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 * 💼 Interested in **Business Analysis & Project Management**
 * 📊 Using **Power BI for Data Analysis & Reporting**
-* 📋 Familiar with **ClickUp & Jira** for project management
 * 🔄 Developing knowledge in **Agile Methodologies & SDLC**
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
 * 🎯 **Goal: Grow into a Project Lead role in the IT industry**
@@ -61,14 +60,18 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 ### 🧰 Tools & Platforms
 
+### 🧰 Tools & Platforms
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
+
 
 ### 🧪 Testing & API Tools
 
