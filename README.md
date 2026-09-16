@@ -33,7 +33,6 @@ I enjoy understanding business requirements, analysing processes, documenting so
 * 📚 Improving my knowledge of **Business Analysis & Project Management**
 * 🔄 Learning more about **Agile methodologies and SDLC**
 * 📊 Developing my skills in **Power BI & Data Analysis**
-* 💼 Looking for an **IT internship opportunity**
 * 🤝 Interested in working with **business and technical teams**
 * 🎯 Building practical projects to strengthen my industry skills
 
