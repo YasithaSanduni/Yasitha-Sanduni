@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="[www.linkedin.com/in/](https://www.linkedin.com/in/yasitha-sanduni-5a72b4410/)">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yasitha-sanduni-5a72b4410/)"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 &nbsp;
 <a href="https://github.com/YasithaSanduni">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
