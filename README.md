@@ -29,11 +29,10 @@ I enjoy understanding business requirements, analysing processes, documenting so
 ### 🌱 Currently
 
 * 💼 Interested in **Business Analysis & Project Management**
-* 📊 Exploring **Business Intelligence & Data Analysis**
-* 🧪 Interested in **Quality Assurance & Software Engineering**
+* 🧪 Interested in **Quality Assurance & Business Intelligence Engineering**
 * 🔄 Currently learning **Agile Methodologies & SDLC**
 * 💻 Building practical projects using **React.js, Spring Boot & Node.js**
-* 🎯 Looking for an **IT Internship Opportunity**
+* 🎯 Goal **IT Internship Opportunity**
 
 ---
 
@@ -201,9 +200,8 @@ I enjoy understanding business requirements, analysing processes, documenting so
 <img src="https://img.shields.io/badge/Business%20Analysis-4B0082?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Project%20Management-00695C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Quality%20Assurance-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence%20Engineer-F57C00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IT%20Support-455A64?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-6A1B9A?style=for-the-badge"/>
 </p>
 
 ---
