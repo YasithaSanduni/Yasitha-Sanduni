@@ -36,19 +36,6 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 ---
 
-## 💼 Experience
-
-### Sampath Bank – Head Office
-
-**HR Intern | Feb 2023 – Oct 2023**
-
-* 📄 Assisted with departmental structure documentation
-* 📊 Collected staff information from departments and branches
-* 🗂️ Assisted with resignation letter handling and documentation
-* 🤝 Supported administrative and departmental activities
-
----
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
@@ -106,7 +93,20 @@ I enjoy understanding business requirements, analysing processes, documenting so
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
+
+### Sampath Bank – Head Office
+
+**HR Intern | Feb 2023 – Oct 2023**
+
+* 📄 Assisted with departmental structure documentation
+* 📊 Collected staff information from departments and branches
+* 🗂️ Assisted with resignation letter handling and documentation
+* 🤝 Supported administrative and departmental activities
+
+---
+
+## 🚀 Projects
 
 ### 🏫 Smart Campus Hub
 
