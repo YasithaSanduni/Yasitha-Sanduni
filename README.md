@@ -27,12 +27,13 @@ I am a motivated **third-year Information Technology undergraduate at SLIIT**, w
 I enjoy understanding business requirements, analysing processes, documenting solutions, coordinating project activities, and working with both business and technical teams to develop practical technology solutions.
 
 ### 🌱 Currently
-
-* 📚 Improving my knowledge of **Business Analysis & Project Management**
-* 🔄 Learning more about **Agile methodologies and SDLC**
-* 📊 Developing my skills in **Power BI & Data Analysis**
-* 🤝 Interested in working with **business and technical teams**
-* 🎯 Building practical projects to strengthen my industry skills
+📚 Improving my knowledge of Business Analysis & Project Management
+🔄 Learning more about Agile methodologies and SDLC
+📊 Developing my skills in Power BI & Data Analysis
+💼 Looking for an IT internship opportunity
+🤝 Interested in working with business and technical teams
+🎯 Building practical projects to strengthen my industry skills
+💡 Interested in Business Analysis • Project Management • QA • Business Intelligence • Software Engineering
 
 ---
 
